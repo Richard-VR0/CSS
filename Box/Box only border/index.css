@@ -1,0 +1,12 @@
+#indextitle {
+    padding-top:20px;
+    padding-left:20px;
+}
+
+#box {
+    width:300px;
+    background-color:#ffffff;
+    vertical-align:middle;
+    text-align:left;
+    border:1px solid rgb(15, 158, 39);
+}
