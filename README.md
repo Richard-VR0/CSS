@@ -30,7 +30,7 @@ Images
     
   <tbody>
     <tr>
-      <td rowspan="2">Box</td>
+      <td rowspan="2">Animation</td>
       <td>Border Gradient animation</td>
     </tr>
     <tr>
@@ -54,9 +54,12 @@ Images
       <td>Pulse button</td>
     </tr>
     <tr>
-      <td>Added saving on temporary file</td>
-      <td>3.0</td>
-      <td>08/06/2022</td>
+      <td>Images</td>
+      <td>Photo grid</td>
+    </tr>
+     <tr>
+      <td>Menu bar</td>
+      <td>Menu bar with drop-down menu</td>
     </tr>
   </tbody>
 </table>
