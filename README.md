@@ -8,7 +8,7 @@ Riccardo Vescio
 
 <table>
   <thead>
-    <tr><th>Directory</th><th></th><th>
+    <tr><th>Directory</th><th>
   </thead>
     
   <tbody>
