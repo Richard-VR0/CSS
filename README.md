@@ -34,17 +34,24 @@ Images
       <td>Border Gradient animation</td>
     </tr>
     <tr>
-      <td rowspan="1">Cursor Animation</td>
+      <td>Cursor Animation</td>
     </tr>
     <tr>
-      <td>Added tools menu with theme and font size settings</td>
-      <td>2.0</td>
-      <td>24/05/2022</td>
+      <td rowspan="3">Box</td>
+      <td>Box only border</td>
     </tr>
     <tr>
-      <td>Added menu for change font type</td>
-      <td>2.1</td>
-      <td>04/06/2022</td>
+      <td>Box with border</td>
+    </tr>
+    <tr>
+      <td>Box without border</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Button</td>
+      <td>Classic button</td>
+    </tr>
+    <tr>
+      <td>Pulse button</td>
     </tr>
     <tr>
       <td>Added saving on temporary file</td>
