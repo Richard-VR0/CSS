@@ -1,0 +1,22 @@
+#container {
+	text-align: center;
+	font-family: 'Muli';
+	height: 25px;
+}
+
+#text {
+	display: inline-block;
+	vertical-align: middle;
+	color: orange;
+	letter-spacing: 2px;
+	font-size: 18px;
+}
+
+#cursor {
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 2px;
+	width: 2px;
+	height: 15px;
+	background-color: orange;
+}
