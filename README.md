@@ -25,7 +25,7 @@ Images
     
 <table>
   <thead>
-    <tr><th>Directory</th><th></th><th></th</tr>
+    <tr><th>Directory</th><th></th><th>
   </thead>
     
   <tbody>
